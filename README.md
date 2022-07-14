@@ -26,4 +26,4 @@ Usage All the files are to be compiled on Ubuntu 20.04 LTS using gcc, using the 
 
 Include the "holberton.h" header file on the functions using the _printf()
 
-This is a group project by LAWRENCE OGEREKA (github.com/Lawren10) and Sunday A Jimoh
+This is a group project by LAWRENCE OGEREKA (github.com/Lawren10) and Sunday Jimoh (github.com/sunday4me)
